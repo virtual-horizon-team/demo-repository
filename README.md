@@ -6,11 +6,9 @@ Virtual Horizon is a next-generation, immersive VR training and creator platform
 
 ## 🎬 Project Pitch & Demo Video
 
-<video src="Virtual_Horizon_Hackathon_Pitch_Comp.mp4" width="100%" controls></video>
+▶️ **[Watch the Pitch & Demo Video](./Virtual_Horizon_Hackathon_Pitch_Comp.mp4)**
 
 This video showcases the platform's vision, system architecture, core workflows (including voice/vision assistant interactions), and live gameplay demo in virtual reality.
-
-*If the video player doesn't render above, you can access the file directly: [Virtual_Horizon_Hackathon_Pitch_Comp.mp4](./Virtual_Horizon_Hackathon_Pitch_Comp.mp4).*
 
 ---
 
